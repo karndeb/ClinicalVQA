@@ -1,5 +1,5 @@
 ## ClinicalVQA
-## Clinical Question Answering Application
+## Clinical Visual Question Answering Application
 
 This application uses cutting-edge VQA models like ErnieLayout and Donut in the backend.
 ![Clinical Question Answering Demo](https://github.com/karndeb/ClinicalVQA/blob/master/demo/Animation.gif)
